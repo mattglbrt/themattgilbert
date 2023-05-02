@@ -28,6 +28,7 @@ home = "home"
 sam_menu = [
     { text = "thoughts", link = "/posts" },
     { text = "about", link = "/about" },
+    { text = "projects", link = "/projects" },
     { text = "twitter", link = "https://twitter.com/mattglbrt" },
     { text = "github", link = "https://github.com/mattglbrt" }
 ]
@@ -35,4 +36,4 @@ sam_menu = [
 sam_bottom_menu = true
 
 [extra.sam_footer]
-text = "Some footer text."
+text = "© 2023 Matthew Gilbert"
