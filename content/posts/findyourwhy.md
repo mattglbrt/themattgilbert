@@ -4,6 +4,15 @@ date = 2023-05-01
 [taxonomies] 
 tags = ["book notes"] 
 +++
+# Publication Information
+Full Title: Find Your Why: A Practical Guide for Discovering Purpose for You and Your Team
+
+Authors: Simon Sinek, along with co-authors David Mead and Peter Docker
+
+Date Published: September 5, 2017
+
+Date Read: Q1 2023
+
 # Summary
 Find Your Why is a practical guide that helps individuals and organizations identify their purpose and create a fulfilling and inspiring career or business. The book builds on Sinek's previous work on leadership and business, particularly his concept of the "Golden Circle" which emphasizes starting with why.
 
