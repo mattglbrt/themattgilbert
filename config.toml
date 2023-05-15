@@ -28,9 +28,7 @@ home = "home"
 sam_menu = [
     { text = "thoughts", link = "/posts" },
     { text = "about", link = "/about" },
-    { text = "projects", link = "/projects" },
-    { text = "twitter", link = "https://twitter.com/mattglbrt" },
-    { text = "github", link = "https://github.com/mattglbrt" }
+    { text = "projects", link = "/projects" }
 ]
 
 sam_bottom_menu = true
